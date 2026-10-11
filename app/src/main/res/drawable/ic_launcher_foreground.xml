@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glowing Shield Outer -->
+    <path
+        android:fillColor="#1500F0FF"
+        android:strokeColor="#00F0FF"
+        android:strokeWidth="2.5"
+        android:pathData="M54,20 L78,28 C78,60 54,84 54,84 C54,84 30,60 30,28 Z" />
+
+    <!-- High-Tech Inner Shield Border -->
+    <path
+        android:fillColor="#2200E676"
+        android:strokeColor="#00E676"
+        android:strokeWidth="1.5"
+        android:pathData="M54,27 L72,34 C72,58 54,76 54,76 C54,76 36,58 36,34 Z" />
+
+    <!-- Letter R Symbol in Center -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M46,38 L55,38 C58.5,38 61,40 61,43.5 C61,46.5 59,48.5 56,49 L62,59 L57.5,59 L52.2,50 L49.5,50 L49.5,59 L46,59 Z M49.5,41.5 L49.5,47.2 L54.5,47.2 C56.5,47.2 57.5,46.2 57.5,44.4 C57.5,42.5 56.5,41.5 54.5,41.5 Z" />
+</vector>
